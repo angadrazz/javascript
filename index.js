@@ -10,3 +10,12 @@ b = temp;
 
 console.log("a is " + a);
 console.log("b is " + b);
+
+var x="G";
+console.log(60-x);
+
+var a = -1;
+typeof(a);
+
+var c = null
+typeof(c)

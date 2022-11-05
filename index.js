@@ -28,4 +28,19 @@ console.log(20 + 12 * 2 - 10 / 2)
 console.log('1' + 1)
 console.log(1 + '1')
 
+var a;
+console.log(a + "b")
 
+var a;
+console.log(a + "b");
+
+console.log(1 - '1')
+
+var x = 450;
+
+if (x > 600) {
+    console.log("Positive");
+}
+else {
+    console.log("Zero");
+}

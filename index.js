@@ -52,3 +52,39 @@ if(-1) {
 else{
     console.log("false");
 }
+
+if("") {
+    console.log("true");
+}
+else {
+    console.log("false");
+}
+
+var w = 10;
+// while (i <= 10){
+//     console.log(i);
+//     i++;
+// }
+
+for(w < 90; w++; ) {
+    console.log(w);
+    break;
+}
+
+var s = 10/0;
+console.log(a);
+
+
+var x;
+if(x){
+    console.log("true");
+} else {
+    console.log("false");
+}
+
+ var age = 17;
+if ( age > 18) {
+ console.log("You can enter the pub");
+}else {
+    console.log("You can not enter the pub");
+}

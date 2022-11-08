@@ -93,3 +93,10 @@ function test(a, b) {
     console.log( a + b );
 }
 test( 2 , 3 , 4);
+
+
+function test1(a,b,c) {
+    console.log(a + b * c);
+}
+
+test1 (2,3);

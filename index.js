@@ -88,3 +88,8 @@ if ( age > 18) {
 }else {
     console.log("You can not enter the pub");
 }
+
+function test(a, b) {
+    console.log( a + b );
+}
+test( 2 , 3 , 4);

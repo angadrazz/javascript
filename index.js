@@ -100,3 +100,7 @@ function test1(a,b,c) {
 }
 
 test1 (2,3);
+
+x = 5;
+console.log(x);
+var x;
